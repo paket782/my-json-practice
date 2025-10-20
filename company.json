@@ -1,0 +1,45 @@
+
+{
+    "company":{
+        "name": "KGU",
+        "year_founded": 2004,
+        "employees": [
+            {
+            "id": 1,
+            "name": "Makson",
+            "position": "Director",
+            "skills": ["bpmn","analisys","sql","bi"],
+            "contact": 
+            {
+                "email": "paket782@gmail.com",
+                "phone": "89632186127"
+
+            }
+        },
+        {
+            "id": 2,
+            "name": "Stas",
+            "position": "Second-Director",
+            "skills": ["bpmn","analisys","sql","bi"],
+            "contact": 
+            {
+                "email": "paket781@gmail.com",
+                "phone": "89632186121"
+
+            }
+        },
+        {
+            "id": 1,
+            "name": "Andrew",
+            "position": "Wow-Manager",
+            "skills": ["-","analisys","sql","bi"],
+            "contact": 
+            {
+                "email": "paket780@gmail.com",
+                "phone": "8963218612"
+
+            }
+        }
+    ]
+    }
+}

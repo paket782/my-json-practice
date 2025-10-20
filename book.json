@@ -1,0 +1,10 @@
+{
+    "Book": {
+        "name": "First Law",
+        "creator": "Joe Abercrombie",
+        "date": "10.04.2004",
+        "inSklad": true,
+        "straniz": 934
+
+    }
+}

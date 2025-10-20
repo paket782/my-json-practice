@@ -1,0 +1,26 @@
+
+{
+    "list":[    {
+        "id": 1,
+        "task": "Покушать",
+        "completed": false,
+        "priority": "high"
+
+    },
+        {
+        "id": 2,
+        "task": "Поспать",
+        "completed": false,
+        "priority": "high"
+
+    },
+        {
+        "id": 3,
+        "task": "Умыться",
+        "completed": false,
+        "priority": "medium"
+
+    }
+]
+
+}

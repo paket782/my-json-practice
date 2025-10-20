@@ -1,0 +1,62 @@
+
+
+{
+    "course_id": 1,
+    "course_name": "IT",
+    "instructor": "Volodya",
+    "student": 
+    [   {  
+        "student_id": 1,
+        "student_name": "Maxim"
+        },
+        {
+        "student_id": 2,
+        "student_name": "Stas"
+        }
+    ],
+    "progress": 
+    {
+        "overall_percentage": 52,
+        "modules": 
+        [
+            {
+                "module_id": 1,
+                "module_title": "CyberBez",
+                "completed": false,
+                "lessons": 
+                [
+                    {
+                        "lesson_id": 1,
+                        "lesson_title": "Http",
+                        "completed": true,
+                        "score": 5,
+                        "time_spent_minute": 32
+                    },
+                    {
+                        "lesson_id": 2,
+                        "lesson_title": "SSH",
+                        "completed": false,
+                        "score": null,
+                        "time_spent_minute": 0
+                    }
+                ]
+            },
+
+            {
+                "module_id": 2,
+                "module_title": "CyberBezB",
+                "completed": true,
+                "lessons": 
+                [
+                    {
+                        "lesson_id": 1,
+                        "lesson_title": "DNS",
+                        "completed": true,
+                        "score": 5,
+                        "time_spent_minute": 25
+                    }
+                ]
+            }
+        ]
+    }
+}

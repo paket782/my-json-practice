@@ -1,0 +1,28 @@
+
+{
+    "playlist":
+    {
+        "playlist_name": "pl1",
+        "created_by": "Paket782",
+        "created_date": "2025-04-19",
+        "tracks": [
+            {
+                "title": "starlight",
+                "artist": "MUSE",
+                "album": "black holes and revelations",
+                "duration_seconds": 247,
+                "genres": ["Rock","Progressiv"],
+                "raiting": 5
+            },
+
+            {
+                "title": "muscle museum",
+                "artist": "MUSE",
+                "album": "showbiz",
+                "duration_seconds": 243,
+                "genres": ["Rock","Progressiv","Pop"],
+                "raiting": 5.6
+            }
+        ]
+    }
+}
