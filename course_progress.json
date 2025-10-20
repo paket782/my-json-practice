@@ -30,14 +30,14 @@
                         "lesson_title": "Http",
                         "completed": true,
                         "score": 5,
-                        "time_spent_minute": 32
+                        "time_spent_minutes": 32
                     },
                     {
                         "lesson_id": 2,
                         "lesson_title": "SSH",
                         "completed": false,
                         "score": null,
-                        "time_spent_minute": 0
+                        "time_spent_minutes": 0
                     }
                 ]
             },
